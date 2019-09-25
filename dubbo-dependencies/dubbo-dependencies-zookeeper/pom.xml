@@ -33,10 +33,14 @@
 
     <properties>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <revision>2.7.3</revision>
 =======
         <revision>2.7.4-SNAPSHOT</revision>
 >>>>>>> bump version to 2.7.4-SNAPSHOT (#4549)
+=======
+        <revision>2.7.5-SNAPSHOT</revision>
+>>>>>>> upgrade version to 2.7.5-SNAPSHOT
         <maven_flatten_version>1.1.0</maven_flatten_version>
     </properties>
 
